@@ -1,5 +1,8 @@
 ---
-
+layout: ../layouts/BaseLayout.astro
+title: "Hello, World!"
+author: "Matthew Phillips"
+date: "09 Aug 2022"
 ---
 
 Final round 1 mock. I tried to minimize trades, but a few of them felt like they had to happen.
