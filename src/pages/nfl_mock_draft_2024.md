@@ -5,17 +5,18 @@ date: "20 Apr 2024"
 ---
 
 Final round 1 mock. I tried to minimize trades, but a few of them felt like they had to happen.
+
 ## Round 1
 
-1) Chicago Bears (from Carolina) - Caleb Williams, QB
+1) Chicago Bears (from Carolina Panthers) - Caleb Williams, QB
 2) Washington Commanders - Jayden Daniels, QB
 3) New England Patriots - Drake Maye, QB
 4) Arizona Cardinals - Marvin Harrison Jr., WR
 5) Minnesota Vikings (from Los Angeles Chargers) - JJ McCarthy, QB
 6) New York Giants - Malik Nabers, WR
 7) Tennessee Titans - Joe Alt, OT
-8) Chicago Bears (from Atlanta) - Rome Odunze, WR 
-9) Atlanta Falcons (from Chicago) - Laiatu Latu, EDGE
+8) Chicago Bears (from Atlanta Falcons) - Rome Odunze, WR 
+9) Atlanta Falcons (from Chicago Bears) - Laiatu Latu, EDGE
 10) New York Jets - Troy Fautanu, OT
 11) Los Angeles Chargers (from Minnesota Vikings) - Taliese Fuaga, OT
 12) Denver Broncos - Michael Penix Jr., QB
@@ -33,7 +34,7 @@ Final round 1 mock. I tried to minimize trades, but a few of them felt like they
 24) Dallas Cowboys - JC Latham, OT
 25) Green Bay Packers - Junior Colson, LB
 26) Tampa Bay Buccaneers - Jared Verse, EDGE
-27) Arizona Cardinals (from Houston) - Byron Murphy II, IDL
+27) Arizona Cardinals (from Houston Texans) - Byron Murphy II, IDL
 28) Seattle Seahawks (from Buffalo Bills) - Jackson Powers-Johnson, IOL
 29) Carolina Panthers (from Detroit Lions) - Adonai Mitchell, WR
 30) Baltimore Ravens - Tyler Guyton, OT
