@@ -1,7 +1,6 @@
 ---
 layout: ../layouts/BaseLayout.astro
-title: "Hello, World!"
-author: "???"
+title: "2024 Round 1 Mock Draft"
 date: "20 Apr 2024"
 ---
 
